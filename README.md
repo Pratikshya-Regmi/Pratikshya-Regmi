@@ -11,12 +11,15 @@
 <p></p>
 
 <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?Pratikshya-Regmi=<Pratikshya-Regmi>" alt="<Pratikshya-Regmi>" /></a> </p>
+<p align="left"> <a href="https://github.com/Pratikshya-Regmi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/Pratikshya-Regmi<username>" alt="<username>" /></a> </p>
 
 <p align="left">
 <a href="https://twitter.com/<any name>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="<any name>" height="30" width="30" style="border-radius:50%" /></a>
+  
 <a href="https://www.linkedin.com/in/<linekdin u name>/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abidadhikari" height="30" width="30" style="border-radius:50%" /></a>
+  
 <a href="https://fb.com/<username>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abidadhikarics" height="30" width="30" style="border-radius:50%" /></a>
+  
 <a href="https://instagram.com/<ur id>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abid.adhikari" height="30" width="30" style="border-radius:50%" /></a>
 </p>
 
