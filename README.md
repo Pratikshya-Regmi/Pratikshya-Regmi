@@ -12,7 +12,7 @@
 
 - 🌱 I’m a **Geomatics Engineer/ Geospatial Data Scientist.**
 - 🌱 Look at my portfolio https://pratikshyaregmi.com/ 
-- 🌱 Contact me at: pratiregmi78@gmail.com 
+- 🌱 Contact me at: pratiregmi78@gmail.com (pregmi3@ncsu.edu)
 
 <p></p>
 
